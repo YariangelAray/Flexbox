@@ -1,0 +1,12 @@
+:root{
+    --negro: #111;
+    --blanco: #fff;
+    --gris1: #c2c2c2;
+    --gris2: #676767;
+    --gris3: #545454 ;
+    --gris4: #262626;
+    --fondo-encabezado: url(free-realistic-snow-overlay-bundle.jpg), linear-gradient(var(--negro), var(--negro)) ;
+    --fondo-body: radial-gradient(circle 1000px at top, var(--gris3), var(--gris4) );
+    --transparencia-items: #ffffff15;
+    --naranja-items: #ff7a18 ;
+}
